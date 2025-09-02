@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Dodge.sln"
+    "dotnet.defaultSolution": "Dodge2.sln"
 }
